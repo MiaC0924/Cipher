@@ -29,7 +29,7 @@ Cipher =  "���"  //the cipher is "1/4 1/2 3/4" but it's displayed like thi
 2. The Bit-Reverse Cipher (cipher2.c)
 - asking user for an input string
 - the program should then create a cipher by taking each character of input and reverse the bits
-- such as flip 'A' = 01000001 to 10000010 = 'é'
+- such as from 'A' = 01000001 to 10000010 = 'é'
 - example output when user enter "ABC"
 
 Please enter a String
@@ -52,7 +52,7 @@ Cipher =  "�B�"  //the cipher is "éB┬" but it's displayed like this on th
 - asking user for an input string
 - the program should then create a cipher by taking each character of input
 - and swaps the low 4 bits with the high 4 bits to get the cipher character
-- such as flip 'B' = 01000010 to 00100100 = '$'
+- such as from 'B' = 01000010 to 00100100 = '$'
 - example output when user enter "ABC"
 
 Please enter a String
